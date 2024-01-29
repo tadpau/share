@@ -7,7 +7,7 @@ def find_food_calories(food_name):
     querystring = {"name": food_name}
 
     headers = {
-        "X-RapidAPI-Key": "750bb80023msh96c53b211533f2ep1c0613jsna65cab27167b",
+        "X-RapidAPI-Key": "xxxxx",
         "X-RapidAPI-Host": "nutritional-data.p.rapidapi.com"
     }
 
