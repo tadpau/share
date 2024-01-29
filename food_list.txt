@@ -1,0 +1,20 @@
+1,Banana,88.7,fruit,anytime,active
+2,Apple,51.0,fruit,anytime,active
+3,Chicken,239.0,protein,anytime,active
+4,fish,205.8,protein,anytime,active
+5,White bread,264.6,grains,anytime,active
+6,White rice,243.1,grains,anytime,active
+7,cheese,402.5,dairy,morning,active
+8,Carrot,41.3,vegetables,anytime,active
+9,Iceberg,13.9,vegetables,anytime,active
+10,Yogurt,153.9,dairy,anytime,active
+11,Beet,43.0,vegetables,anytime,active
+12,Curd,98.0,dairy,morning,active
+13,Buckwheat,343.0,grains,anytime,active
+14,broccoli,34.0,vegetables,anytime,active
+15,Carrots,41.0,vegetables,anytime,active
+16,Granola,408.0,grains,morning,active
+17,kiwi,61.0,fruit,anytime,active
+18,pear,43.6,fruit,anytime,active
+19,pork,242.1,protein,dinner,active
+20,avocado,160.0,fruit,anytime,active
